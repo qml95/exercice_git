@@ -2,3 +2,10 @@ premier fichier texte pour exercice git open classroom
 
 
 contenu de futur application web
+
+
+Gérer son code avec Git et GitHub
+Activité Partie 2 : Partager un repository sur GitHub
+
+L'URL de mon repository :
+https://github.com/qml95/exercice_git.git
